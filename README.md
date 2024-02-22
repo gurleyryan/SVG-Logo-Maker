@@ -39,6 +39,9 @@ node index.js
 
 ## Usage
 
+Type in your answers to the prompted questions. <br />
+Select the shape using the arrow keys. <br />
+[Link to demonstration video](https://drive.google.com/file/d/1wTWmHT8-r4NxE2q3jxB3Lz7rFKH2e2Aq/view)
 
 
 ## Contributing
@@ -49,11 +52,17 @@ Contributors: <br />
 
 ## Credits
 
-
+External Sources: <br />
+- [Node.js](https://nodejs.org/en) <br />
+- [Inquirer](https://www.npmjs.com/package/inquirer) <br />
+- [Jest](https://www.npmjs.com/package/jest)
 
 ## Tests
 
-
+Test the application using the terminal command:
+```console
+npm run test
+```
 
 ## License
 
