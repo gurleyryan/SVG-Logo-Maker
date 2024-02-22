@@ -27,7 +27,15 @@ Built a Node.js command-line application that takes in user input to generate a 
 
 ## Installation
 
-
+You must first clone this repo. Once the repo is downloaded, open it in VS Code. <br />
+Install Node.js modules, including the Inquirer.js and Jest dependencies, using the terminal command:
+```console
+npm i
+```
+Run the application using the terminal command:
+```console
+node index.js
+```
 
 ## Usage
 
